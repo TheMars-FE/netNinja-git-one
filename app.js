@@ -1,5 +1,7 @@
-window.onload=function(){
-    for(var i=0; i<10; i++){
+window.onload = function () {
+    for (var i = 0; i < 10; i++) {
         console.log(i);
     }
+
+    console.log('Your website now are awesome');
 }
